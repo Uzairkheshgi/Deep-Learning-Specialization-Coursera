@@ -1,0 +1,59 @@
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment and dependency files
+env/
+venv/
+*.env
+*.venv
+*.log
+
+# Data files
+*.h5
+*.csv
+*.tsv
+*.json
+*.pkl
+*.pickle
+*.npz
+*.npy
+*.ckpt
+
+# Output files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.mp4
+*.avi
+*.mkv
+*.webm
+
+# TensorFlow and PyTorch cache files
+tf_logs/
+__results__/
+*.pt
+*.pth
+
+# IDE and editor files
+.vscode/
+*.swp
+*.idea/
+
+# Other files
+.DS_Store
+*.tmp
+*.bak
+
+# Coursera specific generated files
+*.html
+*.pdf
+*.ipynb.bak
+*.out
+*.err
