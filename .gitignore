@@ -31,6 +31,9 @@ Drive.ai Dataset Sample LICENSE
 LICENSE
 model_data/
 font/
+Face_Recognition
+keras-facenet_tf23/
+pretrained-model/
 
 
 # Output files
