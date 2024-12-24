@@ -23,7 +23,9 @@ venv/
 *.npz
 *.npy
 *.ckpt
-
+resnet50.data-00000-of-00001
+checkpoint
+resnet50.index
 # Output files
 *.png
 *.jpg
