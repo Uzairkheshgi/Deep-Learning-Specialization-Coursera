@@ -26,6 +26,13 @@ venv/
 resnet50.data-00000-of-00001
 checkpoint
 resnet50.index
+Autonomous_driving_application_Car_detection
+Drive.ai Dataset Sample LICENSE
+LICENSE
+model_data/
+font/
+
+
 # Output files
 *.png
 *.jpg
