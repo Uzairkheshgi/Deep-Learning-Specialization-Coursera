@@ -46,6 +46,9 @@ pretrained-model/
 *.avi
 *.mkv
 *.webm
+*.wav
+glove.6B.50d.txt
+*.txt
 
 # TensorFlow and PyTorch cache files
 tf_logs/
